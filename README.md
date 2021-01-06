@@ -1,3 +1,16 @@
+# Send A
+## Group Members
++ Anthony Le (ioanh.le@mail.utoronto.ca)
++ Birathan Somasundaram (birathan.somasundaram@mail.utoronto.ca)
++ Pratana Atikhomkamalasai (pratana.atikhomkamalasai@mail.utoronto.ca)
++ Suxin Hong (suxin.hong@mail.utoronto.ca)
++ Yuewen Ma (zack.ma@mail.utoronto.ca)
+
+  
+## Quick Demo
+![Quick Demo](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%204/demo.gif)
+
+
 # Firefox Focus for Android
 
 [![Build Status](https://travis-ci.org/mozilla-mobile/focus-android.svg?branch=master)](https://travis-ci.org/mozilla-mobile/focus-android)
